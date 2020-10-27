@@ -212,4 +212,4 @@ message => {if (message.d.emoji.name == '👍') {
 
 console.log(my_bot.test)
 console.log(my_bot.on_discord_message)
-my_bot.run('NzYyMzQ1NTI5NTc2OTE0OTQ0.X3nzmQ.q4FApy0fUniBTcq7HTg-mxtJxrU')
+my_bot.run('')
